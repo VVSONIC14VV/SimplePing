@@ -1,0 +1,11 @@
+name: SimplePing
+version: @version@
+main: com.github.sonic14.simpleping.plugin.SimplePingPlugin
+api-version: "1.13"
+authors: [SONIC14]
+description: SimplePing Plugin
+website: https://github.com/VVSONIC14VV
+
+commands:
+  ping:
+    description: Ping Command
